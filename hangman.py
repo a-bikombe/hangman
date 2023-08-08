@@ -2,7 +2,6 @@
 
 Intro
 	P1 chooses word: CHOSEN_WORD
-    edit
 
 Display game
 		+------+
